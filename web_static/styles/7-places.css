@@ -1,0 +1,19 @@
+.container .places>h1, .container .places ul li article h2{
+    font-size: 30px;
+}
+.container .places ul{
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-start; */
+    flex-wrap: wrap;
+}
+.container .places ul li article{
+width: 390px;
+padding: 20px;
+margin: 20px;
+border: 1px solid #FF5A5F;
+border-radius: 4px;
+}
+.container .places ul li article h2{
+    text-align: center;
+}
